@@ -7,6 +7,7 @@ LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/0088-merge-sorted-array/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MinhQuocNguyenHoang/Embedded-Algorithm-FTEL-BOOTCAMP/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
