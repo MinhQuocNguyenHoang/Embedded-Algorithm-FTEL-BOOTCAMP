@@ -1,6 +1,3 @@
-# Algorithm
-LeetCode solutions
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
