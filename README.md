@@ -1,4 +1,4 @@
-# Embedded-Algorithm-FTEL-BOOTCAMP
+# Algorithm
 LeetCode solutions
 
 <!---LeetCode Topics Start-->
